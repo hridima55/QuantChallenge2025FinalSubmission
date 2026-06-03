@@ -18,4 +18,4 @@ to optimise PnL in a simulated live trading environment.
 - Deployed final model to generate live trading predictions
 
 ## Tech Stack
-Python, pandas, NumPy, scikit-learn, matplotlib
+Python: pandas, scikit-learn, matplotlib
