@@ -1,6 +1,6 @@
 # QuantChallenge 2025
 
-This is our complete repository submission for QuantChallenge2025 (TEAM_2485)
+This is our complete repository submission for QuantChallenge2025 (TEAM_2485).
 
 **Team Size:** 4
 
